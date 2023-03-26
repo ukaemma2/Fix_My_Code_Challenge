@@ -11,7 +11,7 @@ ode Challenge
   * [0x00. Fix my code](./0x00-challenge)
 
 ## Author🖊️:
-	* **[Ukah Emmanuel Ogbonna]** <[Ukaemma2](https://github.com/ukaemma2)>
+	* **[Ukah Emmanuel Ogbonna]** <[ukaemma2](https://github.com/ukaemma2)>
 
 ## Acknowledgements :pray:
 
@@ -24,5 +24,5 @@ ode Challenge
 	<p align="center">
 		<img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
 			alt="ALX Africa Logo"
-		>i
+		>
 	</p>
